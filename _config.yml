@@ -1,6 +1,11 @@
 title: Jingwei Li
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics: UA-000000-0
+logo: "/images/logo.png?raw=true"
+description: 
+  First description
+  <br><br>
+  Second description
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+  
+google_analytics: UA-173376131-1
 theme: jekyll-theme-minimal
